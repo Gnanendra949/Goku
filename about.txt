@@ -1,0 +1,6 @@
+Name: DONTALA GNANENDRA
+Course: BSC-CS-B(COMPUTER SCIENCE)
+About GITHUB: GitHub is a cloud-based platform that provides developers with tools for version control,
+              collaboration, and project management by hosting Git repositories online. It allows teams
+              to store, manage, and share code, enabling multiple people to work on the same project 
+              simultaneously by tracking changes, managing revisions, and facilitating discussions
